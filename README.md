@@ -1,33 +1,3 @@
-# GitHub Repository Description
-
-AI-powered Personal Task Manager built with Python, Flask, HTML, CSS, and JavaScript. Manage daily tasks, track progress, and organize productivity with a clean and user-friendly interface.
-
----
-
-# GitHub Topics / Tags
-
-```text
-python
-flask
-javascript
-html
-css
-task-manager
-productivity
-ai
-web-application
-frontend
-backend
-student-project
-json
-personal-project
-full-stack
-```
-
----
-
-# README.md
-
 # Personal Task Manager
 
 An AI-powered Personal Task Manager developed using Python, Flask, HTML, CSS, and JavaScript. This project helps users organize tasks, manage productivity, and track daily activities through a simple and interactive interface.
